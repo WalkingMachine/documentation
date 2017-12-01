@@ -1,5 +1,7 @@
 pages:
   - Home: 'index.md'
+  - Software Documentation:
+    - ROS: 'Software/ROS.md'
 
 site_name: Walking Machine Documentation
 repo_url: https://github.com/WalkingMachine/documentation
