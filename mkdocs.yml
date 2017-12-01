@@ -1,0 +1,12 @@
+pages:
+  - Home: 'index.md'
+
+site_name: Walking Machine Documentation
+repo_url: https://github.com/WalkingMachine/documentation
+
+markdown_extensions:
+  - admonition
+  - smarty
+  - sane_lists
+
+theme: readthedocs
